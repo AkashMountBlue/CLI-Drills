@@ -86,7 +86,8 @@
 * mv hello/uno/a.txt hello/uno/two/ 
 
 ## Final Output
-![Drill1 Commands](Screenshot from 2025-08-23 14-29-01.png)
+![Drill1 Commands](drill1-screenshot.png)
+
 
 
 
